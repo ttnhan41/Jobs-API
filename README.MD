@@ -1,7 +1,11 @@
 #### Setup
 
 ```bash
-npm install && npm start
+npm install
+```
+
+```bash
+npm start
 ```
 
 #### Database Connection
